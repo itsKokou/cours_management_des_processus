@@ -1,0 +1,106 @@
+=======Pyramide de Maslow (Besoins)
+          Besoins d'accomplissement
+             Besoins d'estime
+            Besoins d'appartenance
+             Besoins de sécurité
+            Besoins physiologiques
+
+
+
+---------------------  11-01-2024 -------------------------
+
+++++  Management : Processus par lequel on administre et coordonne les ressources de manière efficace et efficiente afin d'atteindre les objectifs de l'organisation. 
+
+
+============Les fonctions du Management :
+
+ == Planifier : fixer des objectifs et determiner les actions à entreprendre pour les atteindre. 3 planifications:
+
+    - Opérationnelle : 1er niveau, delai(court : 0 à 1 an),acteurs: activités journalières de l'entreprise
+
+    - Tactique : 2eme niveau : regroupe les experts de l'entreprise(directeur de fonction: marketing, financier...),delai (moyen : 1 à 3 ans) 
+
+    - Stratégique : 3eme niveau : se deroule au sommet de l'entreprise, y reside le cerveau de la boite.Centre décisionnel(directeur général,...) delai (3 à 5 ans)
+  
+ == Organiser : repartir les tâches et coordonner les ressources en fonction des objectifs. 
+
+ == Diriger : insuffler au personnel de l'enthousiasme et de l'ardeur au travail.
+
+ == Contrôler : surveiller et prendre les mesures correctives qui s'imposent. (Tout ce qui n'est pas contrôlé n'est pas bien fait)
+
+ 
+========= Roue du Management : 
+
+-planifier : identifier le problème
+-Réaliser : Mettre en œuvre 
+-Agir : être en action 
+-Contrôler
+
+=========== Objectifs du Managements
+Les trois E du management sont ses objectifs :
+
+Efficacité ==> Efficience ==> Excellence/Economique
+
+
+-----------------------  15-01-2024  --------------------
+
+
+============= Les rôles-clés du manager
+ - Piloter
+ - Perfomer
+ - Resoudre
+ - Communiquer
+ - Anticiper : a une vision : exprimer-expliquer-élargir
+ - Décider 
+ - Organiser
+ - Animer
+
+========================= PROCESSUS
+L'approche processus est un mode de management permettant aux entreprises de piloter leurs performances. 
+
+Processus permettent aux entreprises de piloter leurs performances. 
+
+Procedures font partie du processus
+but = somme des objectifs 
+
+La qualité n'est plus une norme mais une obligation
+
+==================== Famille de processus
+
+- Processus de Pilotage ou Management ou gouvernance : c'est l'organisationnel(objectif,mission,...). la cohérence(tout dans le même sens) Elaborer la stratégie, la qualité. Audit interne et état des lieux. Contribue à la détermination de la politique et au deploiement des objectifs de l'entreprise 
+
+- Processus de Réalisation ou chaîne de valeur : impact sur satisfaction client, cycle de vie du produit, detection besoin à satisfaction du client
+
+-Processus de support/Soutien : Contribut au bon deroulement des processus de réalisation en fournissant ressources nécessaire (fonction organiser)
+
+
+------------------------- 22-01-2024 -------------------
+
+10 Slides maxi : processus de création pour présentation 15 min
+
+Entrants : produits ou services attendus
+Sortants : produits ou services rendus 
+
+
+============== Système de processus 
+
+ - mieux visualiser les données d'entrée et de sorties et leurs interactions
+ - Clarifier les rôles et les responsabilité exercées
+ - D'affecter judicieusement les ressources necessaires
+ - Faire tomber les barrière entre les services: diminuer les coûts, les delais, les gaspillages 
+ - Assure à long terme : maîtrise, surveillance, ameliorité continue des processus 
+
+Approche par processus = organisation maîtrisée
+
+Conception du processus : comprendre l'objectif
+
+Management : système; processus; procedures
+Leadership : Communication; relation; intention
+
+==================== Cartographie des processus :
+-Impact du processus sur les resultat
+-Impact la satisfaction du client
+ 
+NB : faire la cartographie du XPAST 
+
+Contexte : Les orientations stratégiques de l'entreprise

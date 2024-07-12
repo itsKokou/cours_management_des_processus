@@ -1,0 +1,24 @@
+   === Outils de qualité
+PDCA : Planifier Faire Contrôler Agir(Plan Do Check Act) 
+
+  - Les 5 zéro de la qualité 
+
+- Zéro papier
+- Zéro panne 
+- Zéro retard 
+- Zéro stock
+- Zéro defaut 
+
+
+7 S: 
+
+System 
+Style 
+Structure : forme organisationnelle
+Skills : compétence
+Staf : Personnel 
+Shared values : valeurs partagées
+Strategy 
+
+
+Produit Anomal 	
